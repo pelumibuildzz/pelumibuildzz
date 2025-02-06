@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pelumi Fadahunsi</h1>
-<h3 align="center">A Full-Stack Developer from Nigeria that is passionate about bringing Ideas to Life. Proficient in React, Tailwind, Node and Python.</h3>
+<div align="right">
+<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
+</div>  
+
+
+<h1 align="center">Hi 👋, I'm Pelumi</h1>
+<h3 align="center">A Full-Stack Developer from Nigeria who is passionate about bringing Ideas to Life. Proficient in React, Tailwind, Node and Python.</h3>
 
 - 🔭 I’m currently working on **a Booking System Api**
 
