@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Pelumi</h1>
 <h3 align="center">A Full-Stack Developer from Nigeria who is passionate about bringing Ideas to Life. Proficient in React, Tailwind, Node and Python.</h3>
 
-- 🔭 I’m currently working on [a Booking System Api](https://github.com/hslcreators/Booking-System-BE)
+- 🔭 I’m currently working on [Real Estate Portal Api](https://github.com/pelumibuildzz/realty_portal_API)
 
 - 🌱 I’m currently learning **Nest.js , Clean Architecture, Typescript**
 
