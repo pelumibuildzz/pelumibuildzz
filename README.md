@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [a Booking System Api](https://github.com/hslcreators/Booking-System-BE)
 
-- 🌱 I’m currently learning **Framer Motion, Three.js, Zustand**
+- 🌱 I’m currently learning **Nest.js , Clean Architecture, Typescript**
 
-- 💬 Ask me about **React and One Piece**
+- 💬 Ask me about **Javascript and One Piece**
 
-- 📫 How to reach me **ppfaddy@gmail.com**
+- 📫 How to reach me **pelumifadahunsi30@gmail.com**
 
-- ⚡ Fun fact **I'm a Kendrick fan**
+- ⚡ Fun fact **I'm a Child of God, One Piece fan and Rap enthusiast**
 
 
 <br/>
